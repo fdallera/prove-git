@@ -1,4 +1,3 @@
-void main() {
-	int u=0;
+void main(){
 }
 
