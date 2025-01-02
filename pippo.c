@@ -1,6 +1,6 @@
 // file pippo.c
 void main {
-  int i=0;
+  int i=0;		// contatore
   long int time=0;
   int j=0;
 }
